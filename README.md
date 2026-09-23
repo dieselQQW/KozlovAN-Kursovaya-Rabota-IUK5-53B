@@ -3,10 +3,4 @@
 # Тема: 
 Информационная система управления документами при оформлении страхования корпоративного имущества
 # Технологии:
-- Java
-- Spring Boot
-- Spring Web
-- Spring Data JPA
-- Spring Security
-- PostgreSQL
-- Flyway
+
